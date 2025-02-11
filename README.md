@@ -1,2 +1,2 @@
-# Text-Detector
+# Object-Detector
 A Computer Vision Project
