@@ -1,2 +1,0 @@
-Download The yolov(x).cgf & yolov(x).weights
-best for your needs.
